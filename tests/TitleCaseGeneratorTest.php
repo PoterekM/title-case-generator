@@ -30,6 +30,17 @@
             //Assert
             $this->assertEquals("The Little Mermaid", $result);
         }
+
+        // function test_makeTitleCase_lowercaseThe()
+        // {
+        //     $test_TitleCaseGenerator = new TitleCaseGenerator;
+        //     $input = "love the wild";
+        //
+        //     $result = $test_TitleCaseGenerator->makeTitleCase($input);
+        //
+        //     $this->assertEquals("Love the Wild", $result);
+        //
+        // }
     }
 
 ?>
